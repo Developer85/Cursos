@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_80" class="java.beans.XMLDecoder">
+ <object class="modelo.ListaPrendas" id="ListaPrendas0">
+  <void property="lista">
+   <void method="add">
+    <object class="modelo.Prenda">
+     <void property="codigo">
+      <string>1</string>
+     </void>
+     <void property="color">
+      <string>Azul</string>
+     </void>
+     <void property="descripcion">
+      <string>Primera</string>
+     </void>
+     <void property="precioCoste">
+      <double>2.0</double>
+     </void>
+     <void property="precioVenta">
+      <double>2.2</double>
+     </void>
+     <void property="stock">
+      <int>15</int>
+     </void>
+     <void property="talla">
+      <string>L</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Prenda">
+     <void property="codigo">
+      <string>2</string>
+     </void>
+     <void property="color">
+      <string>Rojo</string>
+     </void>
+     <void property="descripcion">
+      <string>Segunda</string>
+     </void>
+     <void property="precioCoste">
+      <double>4.0</double>
+     </void>
+     <void property="precioVenta">
+      <double>4.5</double>
+     </void>
+     <void property="stock">
+      <int>18</int>
+     </void>
+     <void property="talla">
+      <string>M</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Prenda">
+     <void property="codigo">
+      <string>3</string>
+     </void>
+     <void property="color">
+      <string>Blanco</string>
+     </void>
+     <void property="descripcion">
+      <string>Tercera</string>
+     </void>
+     <void property="precioCoste">
+      <double>0.5</double>
+     </void>
+     <void property="precioVenta">
+      <double>4.0</double>
+     </void>
+     <void property="stock">
+      <int>10</int>
+     </void>
+     <void property="talla">
+      <string>L</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Prenda">
+     <void property="codigo">
+      <string>4</string>
+     </void>
+     <void property="color">
+      <string>Blanco</string>
+     </void>
+     <void property="descripcion">
+      <string>Cuarta</string>
+     </void>
+     <void property="precioCoste">
+      <double>5.0</double>
+     </void>
+     <void property="precioVenta">
+      <double>6.0</double>
+     </void>
+     <void property="stock">
+      <int>25</int>
+     </void>
+     <void property="talla">
+      <string>XL</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Prenda">
+     <void property="codigo">
+      <string>5</string>
+     </void>
+     <void property="color">
+      <string>Amarillo</string>
+     </void>
+     <void property="descripcion">
+      <string>Quinta</string>
+     </void>
+     <void property="precioCoste">
+      <double>3.0</double>
+     </void>
+     <void property="precioVenta">
+      <double>4.2</double>
+     </void>
+     <void property="stock">
+      <int>8</int>
+     </void>
+     <void property="talla">
+      <string>S</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Prenda">
+     <void property="codigo">
+      <string>6</string>
+     </void>
+     <void property="color">
+      <string>Blanco</string>
+     </void>
+     <void property="descripcion">
+      <string>Sexta</string>
+     </void>
+     <void property="precioCoste">
+      <double>4.0</double>
+     </void>
+     <void property="precioVenta">
+      <double>5.0</double>
+     </void>
+     <void property="talla">
+      <string>M</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
