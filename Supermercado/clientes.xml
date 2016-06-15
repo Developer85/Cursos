@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_80" class="java.beans.XMLDecoder">
+ <object class="modelo.ListaClientes" id="ListaClientes0">
+  <void property="lista">
+   <void method="add">
+    <object class="modelo.Cliente">
+     <void property="apellidos">
+      <string>Primers</string>
+     </void>
+     <void property="direccion">
+      <string>Primera</string>
+     </void>
+     <void property="nif">
+      <string>000000000</string>
+     </void>
+     <void property="nombre">
+      <string>Primer</string>
+     </void>
+     <void property="poblacion">
+      <string>Barcelona</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Cliente">
+     <void property="apellidos">
+      <string>Els Meus</string>
+     </void>
+     <void property="direccion">
+      <string>Stucom</string>
+     </void>
+     <void property="nif">
+      <string>111111111</string>
+     </void>
+     <void property="nombre">
+      <string>El Meu</string>
+     </void>
+     <void property="poblacion">
+      <string>Barcelona</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Cliente">
+     <void property="apellidos">
+      <string>Terceros</string>
+     </void>
+     <void property="direccion">
+      <string>Tercera</string>
+     </void>
+     <void property="nif">
+      <string>333333333</string>
+     </void>
+     <void property="nombre">
+      <string>Tercer</string>
+     </void>
+     <void property="poblacion">
+      <string>L&apos;Hospitalet de Llobregat</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Cliente">
+     <void property="apellidos">
+      <string>Cuartos</string>
+     </void>
+     <void property="direccion">
+      <string>Cuarta</string>
+     </void>
+     <void property="nif">
+      <string>444444444</string>
+     </void>
+     <void property="nombre">
+      <string>Cuarto</string>
+     </void>
+     <void property="poblacion">
+      <string>Tarragona</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
