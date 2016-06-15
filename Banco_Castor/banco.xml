@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_80" class="java.beans.XMLDecoder">
+ <object class="bancocastor.ListaCuenta" id="ListaCuenta0">
+  <void property="lista">
+   <void method="add">
+    <object class="bancocastor.Cuenta">
+     <void property="comision">
+      <double>0.02</double>
+     </void>
+     <void property="numero">
+      <int>-2</int>
+     </void>
+     <void property="saldo">
+      <double>100000.0</double>
+     </void>
+     <void property="titular">
+      <string>Banco Castor</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="bancocastor.Cuenta">
+     <void property="comision">
+      <double>0.05</double>
+     </void>
+     <void property="personal">
+      <boolean>true</boolean>
+     </void>
+     <void property="saldo">
+      <double>100.0</double>
+     </void>
+     <void property="titular">
+      <string>Jo</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="bancocastor.Cuenta">
+     <void property="comision">
+      <double>0.05</double>
+     </void>
+     <void property="numero">
+      <int>1</int>
+     </void>
+     <void property="personal">
+      <boolean>true</boolean>
+     </void>
+     <void property="saldo">
+      <double>1000.0</double>
+     </void>
+     <void property="titular">
+      <string>Jaume</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="bancocastor.Cuenta">
+     <void property="comision">
+      <double>0.05</double>
+     </void>
+     <void property="numero">
+      <int>2</int>
+     </void>
+     <void property="personal">
+      <boolean>true</boolean>
+     </void>
+     <void property="saldo">
+      <double>150.0</double>
+     </void>
+     <void property="titular">
+      <string>Jo</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
