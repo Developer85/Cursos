@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_80" class="java.beans.XMLDecoder">
+ <object class="modelo.ListaEntrenadores" id="ListaEntrenadores0">
+  <void property="lista">
+   <void method="add">
+    <object class="modelo.Entrenador">
+     <void property="experiencia">
+      <int>3</int>
+     </void>
+     <void property="nacimiento">
+      <object class="java.util.Date">
+       <long>1464855424791</long>
+      </object>
+     </void>
+     <void property="nacionalidad">
+      <string>Andorra</string>
+     </void>
+     <void property="nombre">
+      <string>El Menda</string>
+     </void>
+     <void property="numLicencia">
+      <string>sdfsdf</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

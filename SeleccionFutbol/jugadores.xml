@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_74" class="java.beans.XMLDecoder">
+ <object class="modelo.ListaJugadores" id="ListaJugadores0">
+  <void property="lista">
+   <void method="add">
+    <object class="modelo.Jugador">
+     <void property="diestro">
+      <boolean>true</boolean>
+     </void>
+     <void property="nacimiento">
+      <object class="java.util.Date">
+       <long>1464300000000</long>
+      </object>
+     </void>
+     <void property="nacionalidad">
+      <string>Francia</string>
+     </void>
+     <void property="nombre">
+      <string>Manuel Futbolista Bueno</string>
+     </void>
+     <void property="posicion">
+      <string>Defensa</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Jugador">
+     <void property="nacimiento">
+      <object class="java.util.Date">
+       <long>1465941600000</long>
+      </object>
+     </void>
+     <void property="nacionalidad">
+      <string>Bélgica</string>
+     </void>
+     <void property="nombre">
+      <string>Miguel Garcia Hernandez</string>
+     </void>
+     <void property="posicion">
+      <string>Delantero</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Jugador">
+     <void property="diestro">
+      <boolean>true</boolean>
+     </void>
+     <void property="nacimiento">
+      <object class="java.util.Date">
+       <long>633826800000</long>
+      </object>
+     </void>
+     <void property="nacionalidad">
+      <string>Holanda</string>
+     </void>
+     <void property="nombre">
+      <string>Carlos Fernandez Gutierrez</string>
+     </void>
+     <void property="posicion">
+      <string>Centrocampista</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Jugador">
+     <void property="nacimiento">
+      <object class="java.util.Date">
+       <long>783385200000</long>
+      </object>
+     </void>
+     <void property="nacionalidad">
+      <string>Inglaterra</string>
+     </void>
+     <void property="nombre">
+      <string>Mike Harris</string>
+     </void>
+     <void property="posicion">
+      <string>Delantero</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
